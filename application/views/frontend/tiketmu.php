@@ -39,10 +39,10 @@
 								<h5 class="card-title">Kursi Nomor : <?php echo $row['no_kursi_order']; ?></h5>
 								<a href="<?php echo base_url().$row['qrcode_order'] ?>" class="card-link" download>Download QrCode</a>
 								<h5 class="card-title">Kode Order : <?php echo $row['kd_order']; ?></h5>
-								<p>Nama : <?php echo $row['nama_order']; ?>
+								<p>Nama Penumpang : <?php echo $row['nama_kursi_order']; ?>
 								 <br>Tanggal Pesan : <?php echo $row['tgl_beli_order']; ?></br>
 								 	Tanggal Keberangkatan : <?php echo $row['tgl_berangkat_order']; ?>
-								 	Kota Asal : <?php echo $row['asal_order']; ?>
+								 	<br>Kota Asal : <?php echo $row['asal_order']; ?></br>
 									Status Pembayaran : <?php if ($row['status_order'] == '1') { ?>
 									<i class='btn-danger'>Belum bayar</i>
 									<?php }else{ ?><i class='btn-success'>Lunas bayar</i>

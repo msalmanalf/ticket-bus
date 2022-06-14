@@ -67,7 +67,7 @@
 							sebelum melakukan perjalanan agar tidak ada kendala teknis
 							yang menggangu keamanan dan keselamatan di perjalanan.
 						</h5>
-						<a href="<?php echo base_url() ?>tiket" class="primary-btn header-btn text-uppercase">Cari Tiket</a>
+						<a href="<?php echo base_url() ?>tiket" class="primary-btn header-btn text-uppercase">Order Tiket Tiket</a>
 					</div>
 				</div>
 			</div>
@@ -77,35 +77,35 @@
 			<div class="container">
 				<div class="row d-flex justify-content-center">
 					<div class="col-md-8 pb-40 header-text">
-						<h1>CARA PEMESANAN TIKET BIS</h1>
+						<h1>Cara Pemesanan Tiket Tourismo Bus</h1>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-lg-4 col-md-6">
 						<div class="single-service">
 							<img class="img-fluid" src="<?php echo base_url() ?>assets/frontend/img/a1.png" width="100" height="100" alt="">
-							<h4>Pilih rincian perjalanan
+							<h4>Pilih rincian tiket Anda
 							</h4>
 							<p>
-								Masukkan tempat keberangkatan, tujuan, tanggal perjalanan dan kemudian klik 'Cari'
+								Masukkan tempat keberangkatan, tujuan, tanggal perjalanan dan kemudian klik 'Cari tiket'
 							</p>
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-6">
 						<div class="single-service">
 							<img class="img-fluid" src="<?php echo base_url() ?>assets/frontend/img/a3.png" width="100" height="100" alt="">
-							<h4>Pilih bis dan tempat duduk anda</h4>
+							<h4>Pilih tempat duduk anda</h4>
 							<p>
-								Pilih bis, tempat duduk, tempat keberangkatan, tujuan, isi rincian penumpang dan klik 'Pembayaran'
+								Pilih tempat duduk, tempat keberangkatan, tujuan, isi rincian penumpang dan klik 'Pembayaran'
 							</p>
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-6">
 						<div class="single-service">
 							<img class="img-fluid" src="<?php echo base_url() ?>assets/frontend/img/a2.png" width="100" height="100" alt="">
-							<h4>Cara Pembayaran yang Mudah</h4>
+							<h4>Cara Pembayaran Tiket Bus Tourismo</h4>
 							<p>
-								Pembayaran dapat dilakukan melalui transfer ATM, Internet banking.
+								Pembayaran bisa dilakukan melalui transfer ATM, Internet banking.
 							</p>
 						</div>
 					</div>

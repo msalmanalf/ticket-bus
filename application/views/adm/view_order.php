@@ -92,7 +92,7 @@
                           <option value='2'>Sudah Bayar</option>
                       </select>
                           <?php } elseif($tiket[0]['status_order'] == '2') { ?>
-                            <p class="btn "><b class="btn btn-default">Sudah Bayar</b> <a href="" class="btn btn-danger">Refund Tiket</a></p>
+                            <p class="btn "><b class="btn btn-default">Sudah Bayar</b></p>
 
                         <?php } ?>
                      

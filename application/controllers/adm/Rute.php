@@ -35,7 +35,7 @@ class Rute extends CI_Controller {
 			'terminal_tujuan' => $this->input->post('terminal'),
 			 );
 		$this->db->insert('tbl_tujuan', $data);
-		$this->session->set_flashdata('message', 'swal("Data Berhasil Di Tambah");');
+		$this->session->set_flashdata('message', 'swal("Data Berhasil Di Tambah", "success");');
 		redirect('adm/rute');
 	}
 	public function hapus($kd_tujuan){
